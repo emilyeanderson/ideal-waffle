@@ -1,2 +1,2 @@
 # ideal-waffle
-A lightweight, powerful framework for multi-agent workflows
+A lightweight, powerful framework for a supersonic portfolio
